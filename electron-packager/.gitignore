@@ -1,0 +1,4 @@
+/node_modules
+/browser/app.asar
+/build
+*.*.*.asar
