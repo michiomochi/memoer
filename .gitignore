@@ -1,6 +1,5 @@
 /node_modules
 /.sass-cache
-/lib
 /.idea
 /build
 .DS_Store
