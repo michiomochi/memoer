@@ -1,6 +1,6 @@
-node_modules
-bower_components
-.sass-cache
-lib
-.idea
+/node_modules
+/.sass-cache
+/lib
+/.idea
+/build
 .DS_Store
